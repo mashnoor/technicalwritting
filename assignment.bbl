@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{DUMMY:1}
+Y.~LeCun, Y.~Bengio, and G.~Hinton, ``Deep learning,'' {\em nature}, vol.~521,
+  no.~7553, p.~436, 2015.
+
+\bibitem{schalkoff1989digital}
+R.~J. Schalkoff, {\em Digital image processing and computer vision}, vol.~286.
+\newblock Wiley New York, 1989.
+
+\bibitem{bouvrie2006notes}
+J.~Bouvrie, ``Notes on convolutional neural networks,'' 2006.
+
+\end{thebibliography}

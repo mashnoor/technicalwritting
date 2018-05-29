@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{pal2009comparative}
+U.~Pal, T.~Wakabayashi, and F.~Kimura, ``Comparative study of devnagari
+  handwritten character recognition using different feature and classifiers,''
+  in {\em Document Analysis and Recognition, 2009. ICDAR'09. 10th International
+  Conference on}, pp.~1111--1115, IEEE, 2009.
+
+\bibitem{plamondon2000online}
+R.~Plamondon and S.~N. Srihari, ``Online and off-line handwriting recognition:
+  a comprehensive survey,'' {\em IEEE Transactions on pattern analysis and
+  machine intelligence}, vol.~22, no.~1, pp.~63--84, 2000.
+
+\bibitem{bacstanlar2014introduction}
+Y.~Ba{\c{s}}tanlar and M.~{\"O}zuysal, ``Introduction to machine learning,'' in
+  {\em miRNomics: MicroRNA Biology and Computational Analysis}, pp.~105--128,
+  Springer, 2014.
+
+\bibitem{kotsiantis2007supervised}
+S.~B. Kotsiantis, I.~Zaharakis, and P.~Pintelas, ``Supervised machine learning:
+  A review of classification techniques,'' {\em Emerging artificial
+  intelligence applications in computer engineering}, vol.~160, pp.~3--24,
+  2007.
+
+\bibitem{lecun1995learning}
+Y.~LeCun, L.~Jackel, L.~Bottou, C.~Cortes, J.~S. Denker, H.~Drucker, I.~Guyon,
+  U.~Muller, E.~Sackinger, P.~Simard, {\em et~al.}, ``Learning algorithms for
+  classification: A comparison on handwritten digit recognition,'' {\em Neural
+  networks: the statistical mechanics perspective}, vol.~261, p.~276, 1995.
+
+\end{thebibliography}
