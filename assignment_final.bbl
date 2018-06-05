@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{pal2009comparative}
 U.~Pal, T.~Wakabayashi, and F.~Kimura, ``Comparative study of devnagari
@@ -27,5 +27,42 @@ Y.~LeCun, L.~Jackel, L.~Bottou, C.~Cortes, J.~S. Denker, H.~Drucker, I.~Guyon,
   U.~Muller, E.~Sackinger, P.~Simard, {\em et~al.}, ``Learning algorithms for
   classification: A comparison on handwritten digit recognition,'' {\em Neural
   networks: the statistical mechanics perspective}, vol.~261, p.~276, 1995.
+
+\bibitem{kussul2004improved}
+E.~Kussul and T.~Baidyk, ``Improved method of handwritten digit recognition
+  tested on mnist database,'' {\em Image and Vision Computing}, vol.~22,
+  no.~12, pp.~971--981, 2004.
+
+\bibitem{lecuncourant}
+Y.~LeCun, ``Courant institute, nyu corinna cortes, google labs, new york the
+  mnist database of handwritten digits.''
+
+\bibitem{pedregosa2011scikit}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, {\em et~al.},
+  ``Scikit-learn: Machine learning in python,'' {\em Journal of machine
+  learning research}, vol.~12, no.~Oct, pp.~2825--2830, 2011.
+
+\bibitem{walt2011numpy}
+S.~v.~d. Walt, S.~C. Colbert, and G.~Varoquaux, ``The numpy array: a structure
+  for efficient numerical computation,'' {\em Computing in Science \&
+  Engineering}, vol.~13, no.~2, pp.~22--30, 2011.
+
+\bibitem{hackeling2014mastering}
+G.~Hackeling, {\em Mastering Machine Learning with scikit-learn}.
+\newblock Packt Publishing Ltd, 2014.
+
+\bibitem{liaw2002classification}
+A.~Liaw, M.~Wiener, {\em et~al.}, ``Classification and regression by
+  randomforest,'' {\em R news}, vol.~2, no.~3, pp.~18--22, 2002.
+
+\bibitem{friedman2001elements}
+J.~Friedman, T.~Hastie, and R.~Tibshirani, {\em The elements of statistical
+  learning}, vol.~1.
+\newblock Springer series in statistics New York, 2001.
+
+\bibitem{wiki:decisiontreelearning}
+{Wikipedia}, ``Decision tree learning,'' 2018.
+\newblock [Online; accessed 05-June-2018].
 
 \end{thebibliography}
