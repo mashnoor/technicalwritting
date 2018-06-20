@@ -3,3 +3,18 @@
 \BOOKMARK [1][-]{section.3}{Scikit Learn Machine Learning Library}{}% 3
 \BOOKMARK [1][-]{section.4}{The Classifiers}{}% 4
 \BOOKMARK [2][-]{subsection.4.1}{Random Forest}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Artificial Neural Network}{section.4}% 6
+\BOOKMARK [1][-]{section.5}{Hyperparameters}{}% 7
+\BOOKMARK [2][-]{subsection.5.1}{For Random Forest}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.2}{Artificial Neural Network}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Model Evaluations}{}% 10
+\BOOKMARK [2][-]{subsection.6.1}{Precision Score}{section.6}% 11
+\BOOKMARK [2][-]{subsection.6.2}{Average Accuracy}{section.6}% 12
+\BOOKMARK [2][-]{subsection.6.3}{F1 Score}{section.6}% 13
+\BOOKMARK [2][-]{subsection.6.4}{Recall Score}{section.6}% 14
+\BOOKMARK [2][-]{subsection.6.5}{Confusion Matrices}{section.6}% 15
+\BOOKMARK [3][-]{subsubsection.6.5.1}{For Random Forest}{subsection.6.5}% 16
+\BOOKMARK [3][-]{subsubsection.6.5.2}{For Artificial Neural Network}{subsection.6.5}% 17
+\BOOKMARK [2][-]{subsection.6.6}{Overall Running Time}{section.6}% 18
+\BOOKMARK [1][-]{section.7}{Discussion}{}% 19
+\BOOKMARK [1][-]{section.8}{Conclusion}{}% 20

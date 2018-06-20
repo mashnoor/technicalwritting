@@ -3,44 +3,47 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: assignment_final.aux
 The style file: ieeetr.bst
 Database file #1: ref.bib
-You've used 13 entries,
+Warning--empty journal in vangerven2017artificial
+Warning--empty journal in hinton2010rectified
+You've used 24 entries,
             1876 wiz_defined-function locations,
-            557 strings with 6030 characters,
-and the built_in function-call counts, 3695 in all, are:
-= -- 361
-> -- 161
+            616 strings with 7971 characters,
+and the built_in function-call counts, 6226 in all, are:
+= -- 596
+> -- 273
 < -- 0
-+ -- 59
-- -- 46
-* -- 260
-:= -- 528
-add.period$ -- 15
-call.type$ -- 13
-change.case$ -- 11
++ -- 101
+- -- 77
+* -- 432
+:= -- 896
+add.period$ -- 28
+call.type$ -- 24
+change.case$ -- 21
 chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 177
-empty$ -- 346
-format.name$ -- 46
-if$ -- 899
+cite$ -- 26
+duplicate$ -- 309
+empty$ -- 605
+format.name$ -- 77
+if$ -- 1511
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 13
-newline$ -- 45
-num.names$ -- 13
-pop$ -- 44
+int.to.str$ -- 24
+missing$ -- 24
+newline$ -- 80
+num.names$ -- 24
+pop$ -- 93
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 131
+skip$ -- 201
 stack$ -- 0
-substring$ -- 241
-swap$ -- 75
+substring$ -- 369
+swap$ -- 115
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 38
-width$ -- 15
-write$ -- 131
+warning$ -- 2
+while$ -- 61
+width$ -- 26
+write$ -- 230
+(There were 2 warnings)

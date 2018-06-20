@@ -65,4 +65,57 @@ J.~Friedman, T.~Hastie, and R.~Tibshirani, {\em The elements of statistical
 {Wikipedia}, ``Decision tree learning,'' 2018.
 \newblock [Online; accessed 05-June-2018].
 
+\bibitem{vangerven2017artificial}
+M.~vanGerven and S.~Bohte, ``Artificial neural networks as models of neural
+  information processing: Editorial on the research topic artificial neural
+  networks as models of neural information processing,'' 2017.
+
+\bibitem{leung1991complex}
+H.~Leung and S.~Haykin, ``The complex backpropagation algorithm,'' {\em IEEE
+  Transactions on Signal Processing}, vol.~39, no.~9, pp.~2101--2104, 1991.
+
+\bibitem{hagan1996neural}
+M.~T. Hagan, H.~B. Demuth, M.~H. Beale, {\em et~al.}, {\em Neural network
+  design}, vol.~20.
+\newblock Pws Pub. Boston, 1996.
+
+\bibitem{bergstra2009quadratic}
+J.~Bergstra, G.~Desjardins, P.~Lamblin, and Y.~Bengio, ``Quadratic polynomials
+  learn better image features,'' {\em Technical report, 1337}, 2009.
+
+\bibitem{carlile2017improving}
+B.~Carlile, G.~Delamarter, P.~Kinney, A.~Marti, and B.~Whitney, ``Improving
+  deep learning by inverse square root linear units (isrlus),'' {\em arXiv
+  preprint arXiv:1710.09967}, 2017.
+
+\bibitem{hinton2010rectified}
+G.~E. Hinton, ``Rectified linear units improve restricted boltzmann machines
+  vinod nair,'' 2010.
+
+\bibitem{clevert2015fast}
+D.-A. Clevert, T.~Unterthiner, and S.~Hochreiter, ``Fast and accurate deep
+  network learning by exponential linear units (elus),'' {\em arXiv preprint
+  arXiv:1511.07289}, 2015.
+
+\bibitem{hecht1992theory}
+R.~Hecht-Nielsen, ``Theory of the backpropagation neural network,'' in {\em
+  Neural networks for perception}, pp.~65--93, Elsevier, 1992.
+
+\bibitem{wiki:Hyperparameter}
+Wikipedia, ``{Hyperparameter (machine learning)} --- {W}ikipedia{,} the free
+  encyclopedia.''
+  \url{http://en.wikipedia.org/w/index.php?title=Hyperparameter\%20(machine\%20learning)&oldid=843195812},
+  2018.
+\newblock [Online; accessed 13-June-2018].
+
+\bibitem{hutter2014efficient}
+F.~Hutter, H.~Hoos, and K.~Leyton-Brown, ``An efficient approach for assessing
+  hyperparameter importance,'' in {\em International Conference on Machine
+  Learning}, pp.~754--762, 2014.
+
+\bibitem{erickson2017toolkits}
+B.~J. Erickson, P.~Korfiatis, Z.~Akkus, T.~Kline, and K.~Philbrick, ``Toolkits
+  and libraries for deep learning,'' {\em Journal of digital imaging}, vol.~30,
+  no.~4, pp.~400--405, 2017.
+
 \end{thebibliography}
