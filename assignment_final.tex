@@ -18,7 +18,6 @@ This paper is about the comparison between different Machine Learning models(cla
 \end{abstract}
 
 \section{Introduction}
-
 Handwritten Digit Recognition has been very successful in recent years. A lot of research and studies has been done in recent years on it like Devnagari Handwritten Character Recognition\cite{pal2009comparative}. Handwritten digit recognition technique is used in various fields like PDA, bank cheque, handwritten fields in form etc.\cite{plamondon2000online} Using machine learning technique, which which can be briefly defined as enabling computers make successful predictions using past experiences, \cite{bacstanlar2014introduction} handwritten digit recognition system is greatly improved. Handwritten Digit recognition is a supervised learning algorithm problem. There are many classifier in supervised learning like Neural Network, Decision Tree,  Bayesian Network, Support Vector Machine(SVM), Random Forest etc\cite{kotsiantis2007supervised}. A comparison study has been already done where \textit{Base Linear Classifier, Baseline Nearest Neighbor Classifier, Large Fully Connected Multi-Layer Neural Network, Tangent Distance Clasifier(TDC), LeNet 4 With KNN, Optimal Margin Classifier} are compared among.\cite{lecun1995learning} In our research we are going to compare among Random Forest and Artificial Neural Network. We will chose the best classifier among them based on their accuracy on testing set. 
 
 \section{MNIST Dataset}
@@ -110,11 +109,11 @@ ANN & 0.93841336 & 0.94482759 & 0.80925401 & 0.8387698 & 0.89559877\\
 
 \subsection{Average Accuracy}
 \begin{center}
-\begin{tabular}{ || c c c || } 
+\begin{tabular}{ || c c || } 
 \hline
-Random Forest & Artificial Neural Netwrok & K-Nearest Neighbor\\
+Artificial Neural Netwrok & Random Forest\\
 \hline
-0.875087508750875 & 0.9478947894789479 & 0.0\\
+0.875087508750875 & 0.9478947894789479\\
  \hline
 \end{tabular}
 \end{center}
@@ -206,7 +205,10 @@ From the above scores, it's clear that Random forest is showing much greater per
 \section{Conclusion}
 Our work isn't completed yet. We have to find more optimized hyper parameters for the classifiers. Here, we have just compared only two of the classifiers. But there are many other classifiers that are also needed to be considered. Better versions of Artificial Neural Network are there like Convolutional Neural Net(CNN), Reinforcement Neural Net(RNN), Deep Learning etc. This shows better performance in image categorizing or labeling. So we also want to work on those in future.
 
+
 \bibliography{ref} 
 \bibliographystyle{ieeetr}
+
+\end{document} 
 
 \end{document} 

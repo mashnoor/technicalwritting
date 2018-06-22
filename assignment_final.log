@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.1)  21 JUN 2018 03:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.1)  22 JUN 2018 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -309,48 +309,48 @@ LaTeX Info: Redefining \nameref on input line 12.
 <mnist_example.png, id=107, 289.08pt x 289.08pt>
 File: mnist_example.png Graphic file (type png)
 <use mnist_example.png>
-Package pdftex.def Info: mnist_example.png  used on input line 29.
+Package pdftex.def Info: mnist_example.png  used on input line 28.
 (pdftex.def)             Requested size: 142.26357pt x 142.26357pt.
 
 [2 <./mnist_example.png (PNG copy)>]
 <random_forest.jpg, id=123, 481.8pt x 361.35pt>
 File: random_forest.jpg Graphic file (type jpg)
 <use random_forest.jpg>
-Package pdftex.def Info: random_forest.jpg  used on input line 45.
+Package pdftex.def Info: random_forest.jpg  used on input line 44.
 (pdftex.def)             Requested size: 284.53154pt x 213.39867pt.
  [3 <./random_forest.jpg>]
 <neuralnet.png, id=140, 599.23875pt x 325.215pt>
 File: neuralnet.png Graphic file (type png)
 <use neuralnet.png>
-Package pdftex.def Info: neuralnet.png  used on input line 61.
+Package pdftex.def Info: neuralnet.png  used on input line 60.
 (pdftex.def)             Requested size: 284.53163pt x 154.41917pt.
  [4 <./neuralnet.png>]
-Overfull \hbox (82.9071pt too wide) in paragraph at lines 87--96
+Overfull \hbox (82.9071pt too wide) in paragraph at lines 86--95
  [] 
  []
 
 
-Overfull \hbox (14.7688pt too wide) in paragraph at lines 100--109
+Overfull \hbox (14.7688pt too wide) in paragraph at lines 99--108
  [] 
  []
 
 [5]
-Overfull \hbox (82.9071pt too wide) in paragraph at lines 124--133
+Overfull \hbox (82.9071pt too wide) in paragraph at lines 123--132
  [] 
  []
 
 
-Overfull \hbox (82.9071pt too wide) in paragraph at lines 149--158
+Overfull \hbox (82.9071pt too wide) in paragraph at lines 148--157
  [] 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 194--201
+Underfull \hbox (badness 10000) in paragraph at lines 193--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--201
+Underfull \hbox (badness 10000) in paragraph at lines 193--200
 
  []
 
@@ -368,7 +368,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
 Here is how much of TeX's memory you used:
  5781 strings out of 492649
  84619 string characters out of 6129623
- 187408 words of memory out of 5000000
+ 186408 words of memory out of 5000000
  9560 multiletter control sequences out of 15000+600000
  11057 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -385,7 +385,7 @@ l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
 live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texl
 ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on assignment_final.pdf (10 pages, 223848 bytes).
+Output written on assignment_final.pdf (10 pages, 223823 bytes).
 PDF statistics:
  253 PDF objects out of 1000 (max. 8388607)
  222 compressed objects within 3 object streams
